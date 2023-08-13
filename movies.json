@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "64036df5e743cc7d6aec44a2"
+  },
+  "name": "Kung Fu Panda",
+  "releaseDate": "2008",
+  "rating": 8,
+  "seats": 148,
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1677946304/Images/Kungfu_Panda_ov5vwv.jpg",
+  "__v": 0,
+  "description": "When Po the Panda, a kung fu enthusiast, gets selected as the Dragon Warrior, he decides to team up with the Furious Five and destroy the evil forces that threaten the Valley of Peace.\n"
+},{
+  "_id": {
+    "$oid": "64036e30e743cc7d6aec44a4"
+  },
+  "name": "I Am Legend",
+  "releaseDate": "2007",
+  "rating": 7.2,
+  "seats": 129,
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1677937406/Images/I_am_legend_ei1rgo.jpg",
+  "__v": 0,
+  "description": "Robert Neville, a scientist, is the last human survivor of a plague in the whole of New York. He attempts to find a way to reverse the effects of the man-made virus by using his own immune blood.\n"
+},{
+  "_id": {
+    "$oid": "640383dce743cc7d6aec457e"
+  },
+  "name": "The Grudge",
+  "releaseDate": "2004",
+  "rating": 6,
+  "seats": 150,
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1677951955/Images/grudge_bv9sri.png",
+  "__v": 0,
+  "description": "The Grudge is an American supernatural horror film series released by Sony Pictures based on and a part of the larger Japanese Ju-On franchise. The first installment is a remake of Ju-On: The Grudge and follows a similar storyline to the Japanese film. Wikipedia\n"
+},{
+  "_id": {
+    "$oid": "6404515fc6c6cce40873ba84"
+  },
+  "name": "Rango",
+  "releaseDate": "2004",
+  "rating": 8,
+  "seats": 149,
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1677937406/Images/Rango_xs7weu.jpg",
+  "__v": 0,
+  "description": "Rango, a pet chameleon who aspires to be a hero, lands in a drought-affected town plagued by bandits. He claims to be the saviour and makes an attempt to protect it.\n"
+},{
+  "_id": {
+    "$oid": "64045226c6c6cce40873baa4"
+  },
+  "name": "Rush Hour",
+  "releaseDate": "1998",
+  "rating": 8,
+  "seats": 130,
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1677946831/Images/Rush_Hour_1_eopfsy.jpg",
+  "__v": 0,
+  "description": "When a Chinese consul's young daughter is kidnapped, Hong Kong Detective Lee must team up with Carter, a loud-mouthed LA detective. Distinctive work styles and cultural differences pose hiccups.\n"
+},{
+  "_id": {
+    "$oid": "64d78335c48c350fba24438d"
+  },
+  "name": "Bullet Train",
+  "releaseDate": "2022",
+  "rating": 7.4,
+  "seats": 149,
+  "description": "Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.",
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1691845332/Images/Bullet_Train_tesyn0.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d7aa0de9023008548e0f01"
+  },
+  "name": "Me Before You",
+  "releaseDate": "2016",
+  "rating": 7.3,
+  "seats": 149,
+  "description": "Louisa Clark accepts the job of being a caretaker of Will Traynor, a rigid man who has paralysis. However, her life transforms as the two, gradually, form a bond and later fall in love.",
+  "URL": "https://res.cloudinary.com/dl9ojztzs/image/upload/v1691854463/Images/Me_Before_You_mv9aor.jpg",
+  "__v": 0
+}]
