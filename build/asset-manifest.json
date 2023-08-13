@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b640aaf.css",
+    "main.js": "/static/js/main.731c2fd6.js",
+    "static/js/787.fcd47310.chunk.js": "/static/js/787.fcd47310.chunk.js",
+    "static/media/ticket.png": "/static/media/ticket.d4818681bddffd492797.png",
+    "index.html": "/index.html",
+    "main.4b640aaf.css.map": "/static/css/main.4b640aaf.css.map",
+    "main.731c2fd6.js.map": "/static/js/main.731c2fd6.js.map",
+    "787.fcd47310.chunk.js.map": "/static/js/787.fcd47310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b640aaf.css",
+    "static/js/main.731c2fd6.js"
+  ]
+}
